@@ -1,0 +1,23 @@
+2018-05-28 12:00:25 [restartedMain] INFO  com.dev.Post28MinutesApplication - Starting Post28MinutesApplication on Madani with PID 10680 (D:\Spring28minutes\Rest-Api-28Minutes\target\classes started by Youssef.Sie in D:\Spring28minutes\Rest-Api-28Minutes)
+2018-05-28 12:00:25 [restartedMain] DEBUG com.dev.Post28MinutesApplication - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+2018-05-28 12:00:25 [restartedMain] INFO  com.dev.Post28MinutesApplication - No active profile set, falling back to default profiles: default
+2018-05-28 12:01:04 [restartedMain] INFO  com.dev.Post28MinutesApplication - Started Post28MinutesApplication in 40.696 seconds (JVM running for 47.928)
+2018-05-28 12:02:35 [http-nio-9000-exec-1] INFO  c.dev.controller.RestPostController - GET the lists of all the posts SUCCESS
+2018-05-28 12:02:44 [http-nio-9000-exec-2] INFO  c.dev.controller.RestPostController - GET the lists of all the posts SUCCESS
+2018-05-28 12:04:35 [http-nio-9000-exec-7] INFO  c.dev.controller.RestPostController - Calling the DELETE Method
+2018-05-28 12:05:00 [http-nio-9000-exec-8] INFO  c.dev.controller.RestPostController - POST to save a new Post SUCCESS
+2018-05-28 12:05:58 [http-nio-9000-exec-10] INFO  c.dev.controller.RestPostController - GET the lists of all the posts SUCCESS
+2018-05-28 12:06:04 [http-nio-9000-exec-1] INFO  c.dev.controller.RestPostController - GET to get the id post FAILED
+2018-05-28 12:06:22 [http-nio-9000-exec-2] INFO  c.dev.controller.RestPostController - GET the lists of all the posts SUCCESS
+2018-05-28 12:06:32 [http-nio-9000-exec-3] INFO  c.dev.controller.RestPostController - GET the lists of all the posts SUCCESS
+2018-05-28 12:10:29 [restartedMain] INFO  com.dev.Post28MinutesApplication - Starting Post28MinutesApplication on Madani with PID 10680 (D:\Spring28minutes\Rest-Api-28Minutes\target\classes started by Youssef.Sie in D:\Spring28minutes\Rest-Api-28Minutes)
+2018-05-28 12:10:29 [restartedMain] DEBUG com.dev.Post28MinutesApplication - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+2018-05-28 12:10:29 [restartedMain] INFO  com.dev.Post28MinutesApplication - No active profile set, falling back to default profiles: default
+2018-05-28 12:10:42 [restartedMain] INFO  com.dev.Post28MinutesApplication - Started Post28MinutesApplication in 12.659 seconds (JVM running for 625.631)
+2018-05-28 12:10:59 [restartedMain] INFO  com.dev.Post28MinutesApplication - Starting Post28MinutesApplication on Madani with PID 10680 (D:\Spring28minutes\Rest-Api-28Minutes\target\classes started by Youssef.Sie in D:\Spring28minutes\Rest-Api-28Minutes)
+2018-05-28 12:10:59 [restartedMain] DEBUG com.dev.Post28MinutesApplication - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+2018-05-28 12:10:59 [restartedMain] INFO  com.dev.Post28MinutesApplication - No active profile set, falling back to default profiles: default
+2018-05-28 12:11:10 [restartedMain] INFO  com.dev.Post28MinutesApplication - Started Post28MinutesApplication in 11.489 seconds (JVM running for 654.198)
+2018-05-28 12:12:14 [http-nio-9000-exec-4] INFO  c.dev.controller.RestPostController - GET only one id post SUCCESS
+2018-05-28 12:12:42 [http-nio-9000-exec-5] INFO  c.dev.controller.RestPostController - GET the lists of all the posts SUCCESS
+2018-05-28 12:13:30 [http-nio-9000-exec-7] INFO  c.dev.controller.RestPostController - GET the lists of all the posts SUCCESS

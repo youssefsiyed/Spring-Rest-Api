@@ -1,0 +1,5 @@
+2018-06-08 14:26:54 [restartedMain] INFO  com.dev.Post28MinutesApplication - Starting Post28MinutesApplication on Madani with PID 4528 (D:\Spring28minutes\Rest-Api-28Minutes\target\classes started by Youssef.Sie in D:\Spring28minutes\Rest-Api-28Minutes)
+2018-06-08 14:26:54 [restartedMain] DEBUG com.dev.Post28MinutesApplication - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+2018-06-08 14:26:54 [restartedMain] INFO  com.dev.Post28MinutesApplication - No active profile set, falling back to default profiles: default
+2018-06-08 14:27:39 [restartedMain] INFO  com.dev.Post28MinutesApplication - Started Post28MinutesApplication in 46.406 seconds (JVM running for 52.157)
+2018-06-08 14:32:30 [http-nio-9000-exec-4] INFO  c.dev.controller.RestPostController - GET the lists of all the posts SUCCESS
